@@ -1,4 +1,4 @@
-# Analisador de Sentimentos com Python e PLN 📊🧠
+## Analisador de Sentimentos com Python e PLN 📊🧠
 
 Este projeto foi desenvolvido para automatizar a análise de feedbacks de clientes, transformando textos brutos em métricas quantitativas de satisfação. 
 
